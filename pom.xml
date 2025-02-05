@@ -305,7 +305,7 @@
         <snowflake.version>3.13.5</snowflake.version>
         <databricks.version>2.6.27</databricks.version>
         <redshiftJDBC.version>2.0.0.3</redshiftJDBC.version>
-        <postgres.version>9.4.1208.jre7</postgres.version>
+        <postgres.version>42.2.12.jre6</postgres.version>
 
         <!-- Dependency versions -->
         <junit.version>4.13.1</junit.version>
