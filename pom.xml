@@ -380,7 +380,7 @@
         <build-helper.maven.plugin.version>3.2.0</build-helper.maven.plugin.version>
         <dockerfile.maven.plugin.version>1.4.13</dockerfile.maven.plugin.version>
         <maven.plugin.puppycrawl.version>8.25</maven.plugin.puppycrawl.version>
-        <testcontainers.version>1.17.6</testcontainers.version>
+        <testcontainers.version>2.0.0</testcontainers.version>
     </properties>
 
     <scm>
